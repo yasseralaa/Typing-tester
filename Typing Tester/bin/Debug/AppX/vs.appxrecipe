@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YASSER-PC</Machine>
+    <WindowsUser>Yasser Alaa Eldin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bdfcf573-e246-43b1-a71b-780cd5c1c1e6</PackageIdentityName>
+    <IntermediateOutputPath>E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7FE0B21123F7A539E99ED1DB1476BF4A07C9F20B12D4CA6481352F855C4F36AF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bdfcf573-e246-43b1-a71b-780cd5c1c1e6_1.0.0.0_neutral__hvd2bjhqb41ba</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bdfcf573-e246-43b1-a71b-780cd5c1c1e6_hvd2bjhqb41ba!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bdfcf573-e246-43b1-a71b-780cd5c1c1e6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dev.Yasser</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T13:08:47.031</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.exe">
+      <PackagePath>Typing Tester.exe</PackagePath>
+      <Modified>2016-06-17T13:08:45.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\packages\AdDuplexWindows.8.0.5\lib\winrt45\AdDuplex.Controls.winmd">
+      <PackagePath>AdDuplex.Controls.winmd</PackagePath>
+      <Modified>2014-06-13T12:03:46.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\packages\AdDuplexWindows.8.0.5\lib\winrt45\AdDuplex.WinRT.winmd">
+      <PackagePath>AdDuplex.WinRT.winmd</PackagePath>
+      <Modified>2014-06-13T12:03:46.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\packages\CharmFlyout.1.0.12\lib\winrt45\CharmFlyoutLibrary.dll">
+      <PackagePath>CharmFlyoutLibrary.dll</PackagePath>
+      <Modified>2014-06-04T08:45:29.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\0_0_0_0_0_0_100_1_0+1.jpg">
+      <PackagePath>Assets\0_0_0_0_0_0_100_1_0+1.jpg</PackagePath>
+      <Modified>2014-04-16T03:13:32.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\0_0_0_0_0_0_100_1_0.jpg">
+      <PackagePath>Assets\0_0_0_0_0_0_100_1_0.jpg</PackagePath>
+      <Modified>2014-04-16T03:13:32.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2014-04-20T08:50:28.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\13975128-glassy-aqua-blue-next-icon-button.jpg">
+      <PackagePath>Assets\13975128-glassy-aqua-blue-next-icon-button.jpg</PackagePath>
+      <Modified>2014-04-16T03:12:48.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2014-04-20T08:50:28.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\computer-time-limit photoshop.jpg">
+      <PackagePath>Assets\computer-time-limit photoshop.jpg</PackagePath>
+      <Modified>2014-04-16T03:12:48.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\face.jpg">
+      <PackagePath>Assets\face.jpg</PackagePath>
+      <Modified>2014-04-16T03:13:32.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\help.jpg">
+      <PackagePath>Assets\help.jpg</PackagePath>
+      <Modified>2014-04-16T03:13:32.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\How-To-Beat-Your-Competitors-At-SEO photoshop.jpg">
+      <PackagePath>Assets\How-To-Beat-Your-Competitors-At-SEO photoshop.jpg</PackagePath>
+      <Modified>2014-04-16T03:12:48.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\images2.1.jpg">
+      <PackagePath>Assets\images2.1.jpg</PackagePath>
+      <Modified>2014-04-16T03:12:48.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\images2photoshop.jpg">
+      <PackagePath>Assets\images2photoshop.jpg</PackagePath>
+      <Modified>2014-04-16T03:14:42.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\index.jpg">
+      <PackagePath>Assets\index.jpg</PackagePath>
+      <Modified>2014-04-16T03:13:32.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\iStock_000013038272XSmall photoshop.jpg">
+      <PackagePath>Assets\iStock_000013038272XSmall photoshop.jpg</PackagePath>
+      <Modified>2014-04-16T03:14:42.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\iStock_000013038272XSmall photoshop1.jpg">
+      <PackagePath>Assets\iStock_000013038272XSmall photoshop1.jpg</PackagePath>
+      <Modified>2014-04-16T03:14:42.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\keyboard850.jpg">
+      <PackagePath>Assets\keyboard850.jpg</PackagePath>
+      <Modified>2014-04-16T03:13:32.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Man%27s hands typing.jpg">
+      <PackagePath>Assets\Man%27s hands typing.jpg</PackagePath>
+      <Modified>2014-04-16T03:12:48.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Training_icon.jpg">
+      <PackagePath>Assets\Training_icon.jpg</PackagePath>
+      <Modified>2014-04-16T03:18:29.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\800px-Typing-home-keys-hand-position.svg.png">
+      <PackagePath>Assets\800px-Typing-home-keys-hand-position.svg.png</PackagePath>
+      <Modified>2014-04-16T03:13:32.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\aboutaaf.png">
+      <PackagePath>Assets\aboutaaf.png</PackagePath>
+      <Modified>2014-06-13T16:01:41.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\back photo.png">
+      <PackagePath>Assets\back photo.png</PackagePath>
+      <Modified>2014-04-16T19:24:40.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\challl.png">
+      <PackagePath>Assets\challl.png</PackagePath>
+      <Modified>2014-04-20T19:16:45.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\hrexaminer-top-25-hr-digital-influencers-2010-next-button.png">
+      <PackagePath>Assets\hrexaminer-top-25-hr-digital-influencers-2010-next-button.png</PackagePath>
+      <Modified>2014-04-20T02:26:56.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2014-05-01T07:36:37.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Screenshot %284%29.png">
+      <PackagePath>Assets\Screenshot %284%29.png</PackagePath>
+      <Modified>2014-04-16T03:13:32.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Screenshot %2860%29.png">
+      <PackagePath>Assets\Screenshot %2860%29.png</PackagePath>
+      <Modified>2014-06-13T16:13:26.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\splash.scale-100.png">
+      <PackagePath>Assets\splash.scale-100.png</PackagePath>
+      <Modified>2014-05-01T06:41:36.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-10T22:07:13.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-10T13:56:16.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T12:00:00.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Square30x30Logo.scale-100.png">
+      <PackagePath>Assets\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T07:53:09.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T07:52:10.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T11:55:17.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T07:50:30.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T07:54:04.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T07:50:30.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\training.png">
+      <PackagePath>Assets\training.png</PackagePath>
+      <Modified>2014-04-16T19:12:20.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\type test Mock-Up - Copy+1.png">
+      <PackagePath>Assets\type test Mock-Up - Copy+1.png</PackagePath>
+      <Modified>2014-05-01T05:40:21.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T11:53:53.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T11:57:45.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-04-16T03:16:50.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest1.xbf">
+      <PackagePath>advancedtest1.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest10.xbf">
+      <PackagePath>advancedtest10.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest2.xbf">
+      <PackagePath>advancedtest2.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest3.xbf">
+      <PackagePath>advancedtest3.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest4.xbf">
+      <PackagePath>advancedtest4.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest5.xbf">
+      <PackagePath>advancedtest5.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest6.xbf">
+      <PackagePath>advancedtest6.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest7.xbf">
+      <PackagePath>advancedtest7.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest8.xbf">
+      <PackagePath>advancedtest8.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest9.xbf">
+      <PackagePath>advancedtest9.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\challenge.xbf">
+      <PackagePath>challenge.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\description.xbf">
+      <PackagePath>description.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\MyUserControl1.xbf">
+      <PackagePath>MyUserControl1.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest.xbf">
+      <PackagePath>speedtest.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest2.xbf">
+      <PackagePath>speedtest2.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest3.xbf">
+      <PackagePath>speedtest3.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest4.xbf">
+      <PackagePath>speedtest4.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest5.xbf">
+      <PackagePath>speedtest5.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training1.xbf">
+      <PackagePath>Training1.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training2.xbf">
+      <PackagePath>Training2.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training3.xbf">
+      <PackagePath>Training3.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training4.xbf">
+      <PackagePath>Training4.xbf</PackagePath>
+      <Modified>2014-07-04T05:27:30.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.xr.xml">
+      <PackagePath>Typing Tester.xr.xml</PackagePath>
+      <Modified>2014-09-01T14:01:10.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\packages\AdDuplexWindows.8.0.5\lib\winrt45\AdDuplex.Controls\Themes\Generic.xaml">
+      <PackagePath>AdDuplex.Controls\Themes\Generic.xaml</PackagePath>
+      <Modified>2014-06-13T12:03:46.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\packages\CharmFlyout.1.0.12\lib\winrt45\CharmFlyoutLibrary\Themes\Generic.xaml">
+      <PackagePath>CharmFlyoutLibrary\Themes\Generic.xaml</PackagePath>
+      <Modified>2014-06-04T08:45:29.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-17T13:08:45.780</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

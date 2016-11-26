@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\general\appfactory\typing tester final\typing tester\obj\debug\intermediatexaml\typing tester.exe" HashGuid="8badfd34-d99b-6f07-e444-d4b0bc8f07b0" />
+    <ReferenceAssembly PathName="e:\general\my projects\windows 8.1\typing tester\packages\adduplexwindows.8.0.5\lib\winrt45\adduplex.controls.winmd" HashGuid="2a1d71b7-0ac0-02b6-b8bc-fdee7ae7f9a1" />
+    <ReferenceAssembly PathName="e:\general\my projects\windows 8.1\typing tester\packages\adduplexwindows.8.0.5\lib\winrt45\adduplex.winrt.winmd" HashGuid="0c0db08d-46a6-307f-5c02-a90d1af454be" />
+    <ReferenceAssembly PathName="e:\general\my projects\windows 8.1\typing tester\packages\charmflyout.1.0.12\lib\winrt45\charmflyoutlibrary.dll" HashGuid="ef625e87-4eec-f492-f96f-f93f2cc1366b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

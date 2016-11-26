@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YASSER-PC</Machine>
+    <WindowsUser>Dev.Yasser</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bdfcf573-e246-43b1-a71b-780cd5c1c1e6</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Typing Tester.exe">
+      <PackagePath>Typing Tester.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\0_0_0_0_0_0_100_1_0+1.jpg">
+      <PackagePath>Assets\0_0_0_0_0_0_100_1_0+1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\0_0_0_0_0_0_100_1_0.jpg">
+      <PackagePath>Assets\0_0_0_0_0_0_100_1_0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\13975128-glassy-aqua-blue-next-icon-button.jpg">
+      <PackagePath>Assets\13975128-glassy-aqua-blue-next-icon-button.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\computer-time-limit photoshop.jpg">
+      <PackagePath>Assets\computer-time-limit photoshop.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\face.jpg">
+      <PackagePath>Assets\face.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\help.jpg">
+      <PackagePath>Assets\help.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\How-To-Beat-Your-Competitors-At-SEO photoshop.jpg">
+      <PackagePath>Assets\How-To-Beat-Your-Competitors-At-SEO photoshop.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\images2.1.jpg">
+      <PackagePath>Assets\images2.1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\images2photoshop.jpg">
+      <PackagePath>Assets\images2photoshop.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\index.jpg">
+      <PackagePath>Assets\index.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\iStock_000013038272XSmall photoshop.jpg">
+      <PackagePath>Assets\iStock_000013038272XSmall photoshop.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\iStock_000013038272XSmall photoshop1.jpg">
+      <PackagePath>Assets\iStock_000013038272XSmall photoshop1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\keyboard850.jpg">
+      <PackagePath>Assets\keyboard850.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\Man%27s hands typing.jpg">
+      <PackagePath>Assets\Man%27s hands typing.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\Training_icon.jpg">
+      <PackagePath>Assets\Training_icon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\800px-Typing-home-keys-hand-position.svg.png">
+      <PackagePath>Assets\800px-Typing-home-keys-hand-position.svg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\back photo.png">
+      <PackagePath>Assets\back photo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\challl.png">
+      <PackagePath>Assets\challl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\Screenshot %284%29.png">
+      <PackagePath>Assets\Screenshot %284%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Assets\training.png">
+      <PackagePath>Assets\training.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest1.xbf">
+      <PackagePath>advancedtest1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest10.xbf">
+      <PackagePath>advancedtest10.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest2.xbf">
+      <PackagePath>advancedtest2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest3.xbf">
+      <PackagePath>advancedtest3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest4.xbf">
+      <PackagePath>advancedtest4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest5.xbf">
+      <PackagePath>advancedtest5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest6.xbf">
+      <PackagePath>advancedtest6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest7.xbf">
+      <PackagePath>advancedtest7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest8.xbf">
+      <PackagePath>advancedtest8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest9.xbf">
+      <PackagePath>advancedtest9.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\challenge.xbf">
+      <PackagePath>challenge.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest.xbf">
+      <PackagePath>speedtest.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest2.xbf">
+      <PackagePath>speedtest2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest3.xbf">
+      <PackagePath>speedtest3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest4.xbf">
+      <PackagePath>speedtest4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest5.xbf">
+      <PackagePath>speedtest5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training1.xbf">
+      <PackagePath>Training1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training2.xbf">
+      <PackagePath>Training2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training3.xbf">
+      <PackagePath>Training3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training4.xbf">
+      <PackagePath>Training4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

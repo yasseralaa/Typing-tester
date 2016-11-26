@@ -1,0 +1,1017 @@
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\App.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\App.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\MainPage.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\MainPage.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\XamlTypeInfo.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\App.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\App.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\XamlSaveStateFile.xml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\MainPage.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\App.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\resources.pri
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\AppxManifest.xml
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Typing Tester.build.appxrecipe
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\priconfig.xml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\priconfig.xml.intermediate
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\layout.resfiles
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\layout.resfiles.intermediate
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\resources.resfiles
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\resources.resfiles.intermediate
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\pri.resfiles
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\pri.resfiles.intermediate
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\qualifiers.txt
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\qualifiers.txt.intermediate
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\ProjectArchitectures.txt
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training1.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training1.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training1.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training2.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training2.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training2.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training3.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training3.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training3.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training4.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training4.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training4.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\challenge.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\challenge.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\challenge.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest2.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest2.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest2.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest3.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest3.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest3.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest4.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest4.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest5.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest5.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest4.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest5.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest1.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest1.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest1.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest2.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest2.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest2.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest3.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest3.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest3.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest4.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest4.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest4.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest5.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest5.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest5.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest6.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest6.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest6.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest7.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest7.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest7.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest8.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest8.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest8.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\bin\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest10.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest10.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest9.g.i.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest9.g.cs
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest10.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest9.xaml
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester S\Typing Tester\obj\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\App.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\App.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest1.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest1.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest10.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest10.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest2.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest2.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest3.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest3.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest4.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest4.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest5.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest5.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest6.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest6.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest7.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest7.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest8.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest8.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest9.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest9.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\challenge.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\challenge.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MainPage.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MainPage.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest2.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest2.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest3.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest3.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest4.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest4.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest5.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest5.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training1.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training1.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training2.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training2.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training3.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training3.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training4.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training4.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\XamlTypeInfo.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\App.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest1.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest10.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest2.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest3.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest4.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest5.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest6.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest7.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest8.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest9.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\challenge.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MainPage.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest2.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest3.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest4.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest5.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training1.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training2.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training3.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training4.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\App.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\XamlSaveStateFile.xml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\App.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\resources.pri
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\AppxManifest.xml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\Typing Tester.build.appxrecipe
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\priconfig.xml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\priconfig.xml.intermediate
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\layout.resfiles
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\layout.resfiles.intermediate
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\resources.resfiles
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\resources.resfiles.intermediate
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\pri.resfiles
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\pri.resfiles.intermediate
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\qualifiers.txt
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\qualifiers.txt.intermediate
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\ProjectArchitectures.txt
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MyUserControl1.g.i.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MyUserControl1.g.cs
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MyUserControl1.xaml
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\obj\Debug\MyUserControl1.xbf
+D:\general\appfactory\Typing Tester S - Copy\Typing Tester\bin\Debug\MyUserControl1.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\App.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\MyUserControl1.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\resources.pri
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\AppxManifest.xml
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\Typing Tester.build.appxrecipe
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\App.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\App.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest1.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest1.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest10.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest10.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest2.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest2.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest3.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest3.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest4.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest4.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest5.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest5.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest6.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest6.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest7.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest7.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest8.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest8.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest9.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest9.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\challenge.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\challenge.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MainPage.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MainPage.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest2.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest2.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest3.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest3.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest4.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest4.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest5.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest5.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training1.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training1.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training2.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training2.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training3.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training3.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training4.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training4.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\XamlTypeInfo.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\App.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest1.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest10.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest2.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest3.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest4.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest5.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest6.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest7.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest8.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest9.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\challenge.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MainPage.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest2.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest3.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest4.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest5.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training1.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training2.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training3.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training4.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\App.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\XamlSaveStateFile.xml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\priconfig.xml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\priconfig.xml.intermediate
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\layout.resfiles
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\layout.resfiles.intermediate
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\resources.resfiles
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\resources.resfiles.intermediate
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\pri.resfiles
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\pri.resfiles.intermediate
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\qualifiers.txt
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\qualifiers.txt.intermediate
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\ProjectArchitectures.txt
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\description.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\description.g.i.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\description.g.cs
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\description.xaml
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\description.xbf
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Typing Tester.csprojResolveAssemblyReference.cache
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\CharmFlyoutLibrary.dll
+D:\general\appfactory\Typing Tester\Typing Tester\bin\Debug\CharmFlyoutLibrary.pri
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\Typing Tester.csproj.GenerateResource.Cache
+D:\general\appfactory\Typing Tester\Typing Tester\obj\Debug\CharmFlyoutLibrary.pri.xml
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\App.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest1.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest10.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest2.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest3.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest4.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest5.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest6.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest7.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest8.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\advancedtest9.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\challenge.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\description.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\MainPage.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\MyUserControl1.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\speedtest.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\speedtest2.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\speedtest3.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\speedtest4.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\speedtest5.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\Training1.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\Training2.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\Training3.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\Training4.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\Typing Tester.exe
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\Typing Tester.pdb
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\resources.pri
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\AppxManifest.xml
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\Typing Tester.build.appxrecipe
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\CharmFlyoutLibrary.dll
+E:\Desktop\Typing Tester(1)\Typing Tester\bin\Debug\CharmFlyoutLibrary.pri
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\App.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\App.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest1.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest1.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest10.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest10.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest2.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest2.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest3.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest3.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest4.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest4.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest5.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest5.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest6.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest6.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest7.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest7.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest8.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest8.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest9.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest9.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\challenge.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\challenge.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\description.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\description.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MainPage.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MainPage.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MyUserControl1.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MyUserControl1.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest2.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest2.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest3.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest3.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest4.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest4.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest5.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest5.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training1.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training1.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training2.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training2.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training3.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training3.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training4.g.i.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training4.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\XamlTypeInfo.g.cs
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\App.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest1.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest10.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest2.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest3.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest4.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest5.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest6.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest7.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest8.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest9.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\challenge.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\description.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MainPage.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MyUserControl1.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest2.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest3.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest4.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest5.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training1.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training2.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training3.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training4.xaml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\App.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest1.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest10.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest2.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest3.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest4.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest5.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest6.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest7.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest8.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\advancedtest9.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\challenge.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\description.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MainPage.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MyUserControl1.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest2.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest3.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest4.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\speedtest5.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training1.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training2.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training3.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Training4.xbf
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\XamlSaveStateFile.xml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Typing Tester.exe
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Typing Tester.pdb
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Typing Tester.csproj.GenerateResource.Cache
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\priconfig.xml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\priconfig.xml.intermediate
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\layout.resfiles
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\layout.resfiles.intermediate
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\resources.resfiles
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\resources.resfiles.intermediate
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\pri.resfiles
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\pri.resfiles.intermediate
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\qualifiers.txt
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\qualifiers.txt.intermediate
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\CharmFlyoutLibrary.pri.xml
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\ProjectArchitectures.txt
+E:\Desktop\Typing Tester(1)\Typing Tester\obj\Debug\Typing Tester.csprojResolveAssemblyReference.cache
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\App.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\description.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\MyUserControl1.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\resources.pri
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\AppxManifest.xml
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\Typing Tester.build.appxrecipe
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\CharmFlyoutLibrary.dll
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\CharmFlyoutLibrary.pri
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\App.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\App.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest1.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest1.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest10.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest10.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest2.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest2.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest3.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest3.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest4.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest4.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest5.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest5.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest6.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest6.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest7.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest7.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest8.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest8.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest9.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest9.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\challenge.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\challenge.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\description.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\description.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MainPage.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MainPage.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MyUserControl1.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MyUserControl1.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest2.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest2.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest3.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest3.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest4.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest4.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest5.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest5.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training1.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training1.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training2.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training2.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training3.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training3.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training4.g.i.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training4.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\XamlTypeInfo.g.cs
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\App.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest1.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest10.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest2.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest3.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest4.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest5.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest6.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest7.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest8.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest9.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\challenge.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\description.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MainPage.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MyUserControl1.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest2.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest3.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest4.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest5.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training1.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training2.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training3.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training4.xaml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\App.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest1.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest10.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest2.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest3.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest4.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest5.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest6.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest7.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest8.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\advancedtest9.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\challenge.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\description.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MainPage.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MyUserControl1.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest2.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest3.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest4.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\speedtest5.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training1.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training2.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training3.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Training4.xbf
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\XamlSaveStateFile.xml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Typing Tester.exe
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Typing Tester.pdb
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Typing Tester.csproj.GenerateResource.Cache
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\priconfig.xml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\priconfig.xml.intermediate
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\layout.resfiles
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\layout.resfiles.intermediate
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\resources.resfiles
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\resources.resfiles.intermediate
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\pri.resfiles
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\pri.resfiles.intermediate
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\qualifiers.txt
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\qualifiers.txt.intermediate
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\CharmFlyoutLibrary.pri.xml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\ProjectArchitectures.txt
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\AdDuplex.Controls.winmd
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\AdDuplex.WinRT.winmd
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\AdDuplex.Controls.pri
+D:\general\appfactory\Typing Tester final\Typing Tester\bin\Debug\AdDuplex.WinRT.pri
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\AdDuplex.Controls.pri.xml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\AdDuplex.WinRT.pri.xml
+D:\general\appfactory\Typing Tester final\Typing Tester\obj\Debug\Typing Tester.csprojResolveAssemblyReference.cache
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\App.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest1.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest10.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest2.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest3.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest4.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest5.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest6.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest7.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest8.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest9.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\challenge.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\description.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\MainPage.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\MyUserControl1.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest2.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest3.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest4.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest5.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training1.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training2.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training3.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training4.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.xr.xml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.exe
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.pdb
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\resources.pri
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AppxManifest.xml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.build.appxrecipe
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.Controls.winmd
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.WinRT.winmd
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\CharmFlyoutLibrary.dll
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.Controls.pri
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.WinRT.pri
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\CharmFlyoutLibrary.pri
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.csprojResolveAssemblyReference.cache
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.g.i.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\XamlTypeInfo.g.cs
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.xaml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.xbf
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\XamlSaveStateFile.xml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.exe
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.pdb
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.csproj.GenerateResource.Cache
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\priconfig.xml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\priconfig.xml.intermediate
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\layout.resfiles
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\layout.resfiles.intermediate
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\resources.resfiles
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\resources.resfiles.intermediate
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\pri.resfiles
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\pri.resfiles.intermediate
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\qualifiers.txt
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\qualifiers.txt.intermediate
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\AdDuplex.Controls.pri.xml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\AdDuplex.WinRT.pri.xml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\CharmFlyoutLibrary.pri.xml
+D:\general\my apps\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\ProjectArchitectures.txt
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\App.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest1.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest10.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest2.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest3.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest4.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest5.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest6.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest7.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest8.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\advancedtest9.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\challenge.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\description.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\MainPage.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\MyUserControl1.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest2.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest3.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest4.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\speedtest5.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training1.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training2.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training3.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Training4.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.xr.xml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.exe
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.pdb
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\resources.pri
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AppxManifest.xml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\Typing Tester.build.appxrecipe
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.Controls.winmd
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.WinRT.winmd
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\CharmFlyoutLibrary.dll
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.Controls.pri
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\AdDuplex.WinRT.pri
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\bin\Debug\CharmFlyoutLibrary.pri
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.csprojResolveAssemblyReference.cache
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.g.i.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\XamlTypeInfo.g.cs
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.xaml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\App.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest1.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest10.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest2.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest3.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest4.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest5.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest6.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest7.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest8.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\advancedtest9.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\challenge.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\description.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MainPage.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MyUserControl1.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest2.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest3.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest4.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\speedtest5.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training1.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training2.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training3.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Training4.xbf
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\XamlSaveStateFile.xml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.exe
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.pdb
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\Typing Tester.csproj.GenerateResource.Cache
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\priconfig.xml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\priconfig.xml.intermediate
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\layout.resfiles
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\layout.resfiles.intermediate
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\resources.resfiles
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\resources.resfiles.intermediate
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\pri.resfiles
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\pri.resfiles.intermediate
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\qualifiers.txt
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\qualifiers.txt.intermediate
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\AdDuplex.Controls.pri.xml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\AdDuplex.WinRT.pri.xml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\CharmFlyoutLibrary.pri.xml
+E:\general\my projects\Windows 8.1\Typing Tester\Typing Tester\obj\Debug\ProjectArchitectures.txt
